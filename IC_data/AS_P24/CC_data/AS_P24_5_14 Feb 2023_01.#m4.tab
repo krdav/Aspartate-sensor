@@ -1,0 +1,22 @@
+Multisizer 4	15:45  14 Feb 2023
+File name:	AS_P24_5_14 Feb 2023_01.#m4
+File ID:	AS_P24
+Sample ID:	5
+Control mode:	Volumetric,  1000  uL
+Acquired:	15:45  14 Feb 2023
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	12115
+Counting threshold:	5.000
+Counts above threshold:	12115
+Coincidence corrected:	12651
+
+From	1580
+To	60290
+Number 	876.1e3
+Mean:	7361
+Median:	6524
+S.D.:	4081
+

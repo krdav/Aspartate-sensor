@@ -1,0 +1,33 @@
+# Jupyter Notebook
+**/.ipynb_checkpoints
+**/profile_default/
+**/ipython_config.py
+**/__pycache__
+
+# Excel temporary files:
+**/~$*
+
+# Mac
+**/.DS_Store
+
+# Old stuff, probably not relevant anymore:
+**/compost
+
+# Development stuff:
+**/dev_stuff
+sandbox.ipynb
+
+**/.zip
+
+
+
+
+
+
+
+
+
+
+
+
+

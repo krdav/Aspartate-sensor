@@ -1,0 +1,22 @@
+Multisizer 4	16:34  10 Feb 2023
+File name:	AS_P19_8_10 Feb 2023_01.#m4
+File ID:	AS_P19
+Sample ID:	8
+Control mode:	Volumetric,  1000  uL
+Acquired:	16:33  10 Feb 2023
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	28208
+Counting threshold:	5.000
+Counts above threshold:	28208
+Coincidence corrected:	30013
+
+From	711.3
+To	20218
+Number 	420.0e3
+Mean:	2229
+Median:	2040
+S.D.:	1005
+
