@@ -9,10 +9,10 @@ The sensor signal was captured using the GFP channel and normalized to RFP chann
 Experiments were performed as either "temporal" (Figure 2 in manuscript) or "steady-state" (Figure 3 in manuscript).
 With temporal experiments tracking sensor signal over time after a pertubation, and steady-state experiments correlating sensor signal with LCMS determined aspartate concentration after a pertubation has reached a near steady-state level of sensor signal.
 
-Temporal data is analyzed and plotted here:  
+Temporal data is read, analyzed and plotted here:  
 `temporal_signal.ipynb`
 
-Steady-state data is analyzed and plotted here:  
+Steady-state data is read, analyzed and plotted here:  
 `steady-state_conc.ipynb`
 
 For LCMS based amino acid quantification, isotope dilution was used and calibration curves generated. These calibration curves are plotted here:  
