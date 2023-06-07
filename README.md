@@ -1,6 +1,6 @@
-# Cell line data and processing for jAspSnFR2 publication
+# Cell line data and processing for jAspSnFR3 publication
 
-This repository hosts the data, processing, analysis and plotting for the jAspSnFR2 manuscript titled:  
+This repository hosts the data, processing, analysis and plotting for the jAspSnFR3 manuscript titled:  
 `An engineered biosensor enables dynamic aspartate measurements in living cells`
 
 The sensor was tested by stable expression (lentivirus infection, monoclonal cell line) in different cell lines (H1299, HT1080 and HEK293T) and live cell imaged (GFP/RFP signal monitoring on Incucyte S3).
